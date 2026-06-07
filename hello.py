@@ -1,3 +1,3 @@
 print("Hello GitHub!")
 print("My name is Heena")
-print("I am learning CSDA")
+print("I am BSC CSDA Studend")
